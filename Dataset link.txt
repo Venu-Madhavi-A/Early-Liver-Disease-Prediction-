@@ -1,0 +1,2 @@
+1. https://www.kaggle.com/datasets/andrewmvd/liver-tumor-segmentation
+2.http://medicaldecathlon.com/
